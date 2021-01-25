@@ -46,6 +46,7 @@ def findTime(year, month):
         monthButton.click()
 ```
 ### 向下滚动到底
+目的是要动态加载出当前页面的所有内容。
 ```python
 def scroll():
     for k in range(0, 4):
